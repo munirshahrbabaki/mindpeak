@@ -1,0 +1,37 @@
+body {
+  font-family: "Montserrat", sans-serif;
+}
+
+.splash-screen {
+  background-color: black;
+  padding: 5% 15%;
+}
+
+.text-side {
+  text-align: center;
+  color: white;
+  font-size: 1.5rem;
+}
+img {
+  width: 70%;
+  border-radius: 100%;
+}
+.position-heading {
+  font-family: "Italianno", cursive;
+  font-size: 7rem;
+
+  line-height: 1;
+}
+
+.brand-name {
+  font-size: 2rem;
+}
+
+.image-side {
+  padding-left: 10px;
+  text-align: center;
+  margin-bottom: 50px;
+}
+
+@media (max-width: 900px) {
+}
