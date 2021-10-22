@@ -34,4 +34,25 @@ img {
 }
 
 @media (max-width: 900px) {
+  .position-heading {
+    font-family: "Italianno", cursive;
+    font-size: 5rem;
+  
+    line-height: .75;
+
+}
+.text-side {
+  text-align: center;
+  color: white;
+  font-size: 1rem;
+}
+.image-side {
+  padding-left: 10px;
+  text-align: center;
+  margin-bottom: 10px;
+}
+.position-heading{
+  margin-top: 50px;
+  margin-bottom: 50px;
+}
 }
